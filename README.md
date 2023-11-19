@@ -2,6 +2,13 @@
 
 This repository provides the current release of the **SAF Profile** intended to be used with Cameo Systems Modeler 2021x Refresh2. Please see the model file itself for licensing terms.
 
+The subdirectory **Cameo19** contains the SAF_Profile for Cameo version 19, and also Descriptors for SAF Diagram types.
+The Descriptors can be imported using the Diagram customization Dialog, or copied to
+
+```
+ %AppData%\Local\.magicdraw\19.0\data\diagrams
+```
+
 ## SAF_Profile.mdzip
 
 **SAF_Profile** has been created by the System Architecture Framework Working Group of the German Chapter of INCOSE, GfSE e.V. The SAF Profile contains the Stereotypes according to the [SAF-Specification](https://github.com/GfSE/SAF-Specification/), [List of Stereotypes](https://github.com/GfSE/SAF-Specification/blob/main/stereotypes.md).
@@ -10,6 +17,6 @@ This repository provides the current release of the **SAF Profile** intended to 
 ## Versions
 This is the main branch that reflects the current state of development and it is updated as required.
 
-The following releases are available, each of wwhich is kept in a separate branch:
+The following releases are available, each of which is kept in a separate branch:
 * [Initial Release](https://github.com/GfSE/SAF-Cameo-Profile/tree/Initial-Release)
 * [TdSE2023](https://github.com/GfSE/SAF-Cameo-Profile/tree/TdSE2023)
