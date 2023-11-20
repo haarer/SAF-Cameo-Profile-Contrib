@@ -1,6 +1,8 @@
 # 3DS Cameo Systems Modeler Repository
 
-This repository provides the current release of the **SAF Profile** intended to be used with Cameo Systems Modeler 2021x Refresh2. Please see the model file itself for licensing terms.
+This repository provides experimental channges of the  current release of the **SAF Profile** intended to be used with Cameo Systems Modeler 2021x Refresh2. Please see the model file itself for licensing terms.
+
+For a stable version go to the [TdSE2023 Release in the GfSE SAF repository](https://github.com/GfSE/SAF-Cameo-Profile/tree/TdSE2023)
 
 The subdirectory [Cameo19](Cameo19) contains the a [plugin.zip](Cameo19/plugin/plugin.zip) which can be installed using the resource manager. It provides the SAF_Profile for Cameo version 19, and also Descriptors for some SAF Diagram types.
 
@@ -10,8 +12,8 @@ The subdirectory [Cameo19](Cameo19) contains the a [plugin.zip](Cameo19/plugin/p
 
 
 ## Versions
-This is the main branch that reflects the current state of development and it is updated as required.
+This is an experimental fork of the main branch.
 
-The following releases are available, each of which is kept in a separate branch:
+The following releases are available in the main repo, each of which is kept in a separate branch:
 * [Initial Release](https://github.com/GfSE/SAF-Cameo-Profile/tree/Initial-Release)
 * [TdSE2023](https://github.com/GfSE/SAF-Cameo-Profile/tree/TdSE2023)
