@@ -2,7 +2,7 @@
 
 This repository provides the current release of the **SAF Profile** intended to be used with Cameo Systems Modeler 2021x Refresh2. Please see the model file itself for licensing terms.
 
-The subdirectory **Cameo19** contains the a plugin.zip which can be installed using the resource manager. It contains the SAF_Profile for Cameo version 19, and also Descriptors for some SAF Diagram types.
+The subdirectory [Cameo19](Cameo19) contains the a [plugin.zip](Cameo19/plugin/plugin.zip) which can be installed using the resource manager. It provides the SAF_Profile for Cameo version 19, and also Descriptors for some SAF Diagram types.
 
 ## SAF_Profile.mdzip
 
